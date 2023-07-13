@@ -10,13 +10,6 @@ module.exports = defineConfig ( {
     openLoginUrl: 'https://plug-frontend.vercel.app/login',
   },
 
-//{
-//  "env": {
-//    "mailosaurApiKey": "Ydx1MbUZ7rzonYWjmR0HRYHU3ajJvS2p",
-//    "mailosaurServerId": "orp6ep30"
-//  }
-//}
-
     viewportHeight: 960,
     viewportwidth: 1600,
     defaultCommandTimeout: 30000,
